@@ -8,5 +8,7 @@ namespace DaylenGit.Models
     public class Hue
     {
 
+
+
     }
 }
